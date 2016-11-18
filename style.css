@@ -57,8 +57,18 @@ div {
     width: 450px;
     height: 250px;
 }
+
+.codeView{
+    align-content: center;
+    text-align: center; 
+    width: 75%;
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
 footer{
-    font-size: xx-small;   
+    font-size: small;
+    font-style: oblique;
 }
 
 table{
