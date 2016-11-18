@@ -41,7 +41,7 @@ div {
 
 .instr{
     border-right: 2px solid;
-    width: 150px;
+    width: 250px;
     
 }
 
@@ -49,12 +49,13 @@ div {
     align-content: center;
     text-align: center;
     font-style: italic;
+    font-size: large;
 }
 
 .instrImg{
     border-left: 2px solid;
-    width: 250px;
-    height: 150px;
+    width: 450px;
+    height: 250px;
 }
 footer{
     font-size: xx-small;   
