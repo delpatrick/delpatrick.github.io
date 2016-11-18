@@ -1,0 +1,65 @@
+.Bar{
+    background-color: lightblue;
+    height: 100%;
+    width: 100%;
+    vertical-align: middle;
+}
+
+#nav{
+    position: relative;   
+}
+
+#headerImg{
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+}
+
+.navCell{
+    width: 150px;
+}
+
+.navBtn{
+    border: 2px solid;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+div {
+    align-content: center;
+    text-align: center;
+}
+
+.divWBorder{
+    align-content: center;
+    text-align: center; 
+    border: 2px solid;
+}
+#title {
+    font-size: xx-large;
+}
+
+.instr{
+    border-right: 2px solid;
+    width: 150px;
+    
+}
+
+.instrWBG{
+    align-content: center;
+    text-align: center;
+    font-style: italic;
+}
+
+.instrImg{
+    border-left: 2px solid;
+    width: 250px;
+    height: 150px;
+}
+footer{
+    font-size: xx-small;   
+}
+
+table{
+    margin: 0 auto;
+}
